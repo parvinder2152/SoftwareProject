@@ -85,7 +85,7 @@ export default function EventManagementPanel({ events: initialEvents }: Props) {
     if (result.success) {
       setRegistrations(result.registrations);
     } else {
-      setError(result.error);
+      setError(result.error ?? "Unable to load registrations.");
     }
   }
 
