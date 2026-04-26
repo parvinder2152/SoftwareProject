@@ -1,0 +1,1884 @@
+{
+  "users": [
+    {
+      "id": "user-tech-club",
+      "name": "Tech Club",
+      "email": "tech.club@uems.local",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc06f10c109b54d4c6c3d5f9b0e5f5f1c4e3c8",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "user-green-office",
+      "name": "Green Office",
+      "email": "green.office@uems.local",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc06f10c109b54d4c6c3d5f9b0e5f5f1c4e3c8",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "user-global-society",
+      "name": "Global Society",
+      "email": "global.society@uems.local",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc06f10c109b54d4c6c3d5f9b0e5f5f1c4e3c8",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "user-career-services",
+      "name": "Career Services",
+      "email": "career.services@uems.local",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc06f10c109b54d4c6c3d5f9b0e5f5f1c4e3c8",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "user-student-demo",
+      "name": "Maya Chen",
+      "email": "maya.chen@uems.local",
+      "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T06:07:06.725Z"
+    },
+    {
+      "id": "user-94167bc0",
+      "name": "Test User",
+      "email": "user1775455561535@test.local",
+      "passwordHash": "fcf730b6d95236ecd3c9fc2d92d7b6b2bb061514961aec041d6c7a7192f592e4",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:06:01.853Z",
+      "updatedAt": "2026-04-06T06:06:01.853Z"
+    },
+    {
+      "id": "user-c77b801e",
+      "name": "New User",
+      "email": "new1775455612729@test.local",
+      "passwordHash": "fcf730b6d95236ecd3c9fc2d92d7b6b2bb061514961aec041d6c7a7192f592e4",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:06:52.753Z",
+      "updatedAt": "2026-04-06T06:06:52.753Z"
+    },
+    {
+      "id": "user-2023csb1091",
+      "name": "2023CSB1091",
+      "email": "2023csb1091@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1092",
+      "name": "2023CSB1092",
+      "email": "2023csb1092@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1093",
+      "name": "2023CSB1093",
+      "email": "2023csb1093@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1094",
+      "name": "2023CSB1094",
+      "email": "2023csb1094@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1095",
+      "name": "2023CSB1095",
+      "email": "2023csb1095@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1096",
+      "name": "2023CSB1096",
+      "email": "2023csb1096@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1097",
+      "name": "2023CSB1097",
+      "email": "2023csb1097@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1098",
+      "name": "2023CSB1098",
+      "email": "2023csb1098@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1099",
+      "name": "2023CSB1099",
+      "email": "2023csb1099@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1100",
+      "name": "2023CSB1100",
+      "email": "2023csb1100@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1101",
+      "name": "2023CSB1101",
+      "email": "2023csb1101@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1102",
+      "name": "2023CSB1102",
+      "email": "2023csb1102@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1103",
+      "name": "2023CSB1103",
+      "email": "2023csb1103@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1104",
+      "name": "2023CSB1104",
+      "email": "2023csb1104@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1105",
+      "name": "2023CSB1105",
+      "email": "2023csb1105@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1106",
+      "name": "2023CSB1106",
+      "email": "2023csb1106@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1107",
+      "name": "2023CSB1107",
+      "email": "2023csb1107@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1108",
+      "name": "2023CSB1108",
+      "email": "2023csb1108@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1109",
+      "name": "2023CSB1109",
+      "email": "2023csb1109@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1110",
+      "name": "2023CSB1110",
+      "email": "2023csb1110@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1111",
+      "name": "2023CSB1111",
+      "email": "2023csb1111@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1112",
+      "name": "2023CSB1112",
+      "email": "2023csb1112@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1113",
+      "name": "2023CSB1113",
+      "email": "2023csb1113@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1114",
+      "name": "2023CSB1114",
+      "email": "2023csb1114@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1115",
+      "name": "2023CSB1115",
+      "email": "2023csb1115@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1116",
+      "name": "2023CSB1116",
+      "email": "2023csb1116@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1117",
+      "name": "2023CSB1117",
+      "email": "2023csb1117@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1118",
+      "name": "2023CSB1118",
+      "email": "2023csb1118@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1119",
+      "name": "2023CSB1119",
+      "email": "2023csb1119@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1120",
+      "name": "2023CSB1120",
+      "email": "2023csb1120@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1121",
+      "name": "2023CSB1121",
+      "email": "2023csb1121@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1122",
+      "name": "2023CSB1122",
+      "email": "2023csb1122@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1123",
+      "name": "2023CSB1123",
+      "email": "2023csb1123@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1124",
+      "name": "2023CSB1124",
+      "email": "2023csb1124@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1125",
+      "name": "2023CSB1125",
+      "email": "2023csb1125@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1126",
+      "name": "2023CSB1126",
+      "email": "2023csb1126@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1127",
+      "name": "2023CSB1127",
+      "email": "2023csb1127@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1128",
+      "name": "2023CSB1128",
+      "email": "2023csb1128@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1129",
+      "name": "2023CSB1129",
+      "email": "2023csb1129@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1130",
+      "name": "2023CSB1130",
+      "email": "2023csb1130@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1131",
+      "name": "2023CSB1131",
+      "email": "2023csb1131@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1132",
+      "name": "2023CSB1132",
+      "email": "2023csb1132@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1133",
+      "name": "2023CSB1133",
+      "email": "2023csb1133@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1134",
+      "name": "2023CSB1134",
+      "email": "2023csb1134@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1135",
+      "name": "2023CSB1135",
+      "email": "2023csb1135@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1136",
+      "name": "2023CSB1136",
+      "email": "2023csb1136@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1137",
+      "name": "2023CSB1137",
+      "email": "2023csb1137@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1138",
+      "name": "2023CSB1138",
+      "email": "2023csb1138@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1139",
+      "name": "2023CSB1139",
+      "email": "2023csb1139@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1140",
+      "name": "2023CSB1140",
+      "email": "2023csb1140@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1141",
+      "name": "2023CSB1141",
+      "email": "2023csb1141@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1142",
+      "name": "2023CSB1142",
+      "email": "2023csb1142@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1143",
+      "name": "2023CSB1143",
+      "email": "2023csb1143@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1144",
+      "name": "2023CSB1144",
+      "email": "2023csb1144@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1145",
+      "name": "2023CSB1145",
+      "email": "2023csb1145@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1146",
+      "name": "2023CSB1146",
+      "email": "2023csb1146@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1147",
+      "name": "2023CSB1147",
+      "email": "2023csb1147@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1148",
+      "name": "2023CSB1148",
+      "email": "2023csb1148@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1149",
+      "name": "2023CSB1149",
+      "email": "2023csb1149@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1150",
+      "name": "2023CSB1150",
+      "email": "2023csb1150@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1151",
+      "name": "2023CSB1151",
+      "email": "2023csb1151@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1152",
+      "name": "2023CSB1152",
+      "email": "2023csb1152@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1153",
+      "name": "2023CSB1153",
+      "email": "2023csb1153@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1154",
+      "name": "2023CSB1154",
+      "email": "2023csb1154@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1155",
+      "name": "2023CSB1155",
+      "email": "2023csb1155@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1156",
+      "name": "2023CSB1156",
+      "email": "2023csb1156@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1157",
+      "name": "2023CSB1157",
+      "email": "2023csb1157@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1158",
+      "name": "2023CSB1158",
+      "email": "2023csb1158@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1159",
+      "name": "2023CSB1159",
+      "email": "2023csb1159@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1160",
+      "name": "2023CSB1160",
+      "email": "2023csb1160@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1161",
+      "name": "2023CSB1161",
+      "email": "2023csb1161@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1162",
+      "name": "2023CSB1162",
+      "email": "2023csb1162@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1163",
+      "name": "2023CSB1163",
+      "email": "2023csb1163@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1164",
+      "name": "2023CSB1164",
+      "email": "2023csb1164@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1165",
+      "name": "2023CSB1165",
+      "email": "2023csb1165@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1166",
+      "name": "2023CSB1166",
+      "email": "2023csb1166@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1167",
+      "name": "2023CSB1167",
+      "email": "2023csb1167@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1168",
+      "name": "2023CSB1168",
+      "email": "2023csb1168@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1169",
+      "name": "2023CSB1169",
+      "email": "2023csb1169@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1170",
+      "name": "2023CSB1170",
+      "email": "2023csb1170@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1171",
+      "name": "2023CSB1171",
+      "email": "2023csb1171@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1172",
+      "name": "2023CSB1172",
+      "email": "2023csb1172@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1173",
+      "name": "2023CSB1173",
+      "email": "2023csb1173@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-2023csb1174",
+      "name": "2023CSB1174",
+      "email": "2023csb1174@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:09:09.392Z",
+      "updatedAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "user-organizer1",
+      "name": "Organizer One",
+      "email": "organizer1@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T06:42:01.964Z",
+      "updatedAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "user-organizer2",
+      "name": "Organizer Two",
+      "email": "organizer2@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-06T06:42:01.964Z",
+      "updatedAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "user-admin",
+      "name": "Admin User",
+      "email": "admin@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "ADMIN",
+      "status": "active",
+      "createdAt": "2026-04-06T06:42:01.964Z",
+      "updatedAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "user-5153abaa",
+      "name": "ac",
+      "email": "2023csb1143@iitrpr",
+      "passwordHash": "f579f3873cba2b0963b8b67c046774c7d5b6374d56ea699bacb27921a21af446",
+      "role": "STUDENT",
+      "status": "active",
+      "createdAt": "2026-04-06T06:54:38.503Z",
+      "updatedAt": "2026-04-06T06:54:38.503Z"
+    },
+    {
+      "id": "user-27c7c460",
+      "name": "org1",
+      "email": "organiser11@iitrpr.ac.in",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "ORGANIZER",
+      "status": "active",
+      "createdAt": "2026-04-13T00:47:29.008Z",
+      "updatedAt": "2026-04-13T00:47:29.008Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-001",
+      "organizerId": "user-tech-club",
+      "title": "Innovation Hack Night",
+      "description": "Build campus ideas into prototypes with mentors from the tech club.",
+      "location": "Engineering Hall, Lab 3",
+      "eventDate": "2026-04-12T00:00:00.000Z",
+      "startTime": "2026-04-12T18:00:00.000Z",
+      "endTime": "2026-04-12T21:00:00.000Z",
+      "status": "PUBLISHED",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "evt-002",
+      "organizerId": "user-green-office",
+      "title": "Sustainability Summit",
+      "description": "Join student leaders and faculty for a practical sustainability forum.",
+      "location": "Auditorium A",
+      "eventDate": "2026-04-18T00:00:00.000Z",
+      "startTime": "2026-04-18T10:00:00.000Z",
+      "endTime": "2026-04-18T14:00:00.000Z",
+      "status": "PUBLISHED",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "evt-003",
+      "organizerId": "user-global-society",
+      "title": "Cultural Night Showcase",
+      "description": "A student performance evening celebrating music, dance, and food.",
+      "location": "Student Center Plaza",
+      "eventDate": "2026-04-21T00:00:00.000Z",
+      "startTime": "2026-04-21T19:00:00.000Z",
+      "endTime": "2026-04-21T22:30:00.000Z",
+      "status": "PUBLISHED",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    },
+    {
+      "id": "evt-004",
+      "organizerId": "user-career-services",
+      "title": "Career Prep Workshop",
+      "description": "Resume review, interview practice, and short networking sessions.",
+      "location": "Library Studio",
+      "eventDate": "2026-04-25T00:00:00.000Z",
+      "startTime": "2026-04-25T15:00:00.000Z",
+      "endTime": "2026-04-25T17:00:00.000Z",
+      "status": "DRAFT",
+      "createdAt": "2026-04-06T00:00:00.000Z",
+      "updatedAt": "2026-04-06T00:00:00.000Z"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "reg-35a54e5a",
+      "eventId": "evt-001",
+      "userId": "user-2023csb1143",
+      "registeredAt": "2026-04-06T06:11:26.184Z",
+      "status": "CONFIRMED"
+    },
+    {
+      "id": "reg-2f89c445",
+      "eventId": "evt-002",
+      "userId": "user-5153abaa",
+      "registeredAt": "2026-04-06T06:54:38.503Z",
+      "status": "CONFIRMED"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "note-d8c12493",
+      "userId": "user-2023csb1143",
+      "eventId": "evt-001",
+      "message": "You are registered for Innovation Hack Night.",
+      "channel": "in_app",
+      "isRead": false,
+      "createdAt": "2026-04-06T06:11:26.184Z"
+    },
+    {
+      "id": "note-59bc01da",
+      "userId": "user-5153abaa",
+      "eventId": "evt-002",
+      "message": "You are registered for Sustainability Summit.",
+      "channel": "in_app",
+      "isRead": false,
+      "createdAt": "2026-04-06T06:54:38.503Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-355785d5",
+      "actorUserId": "user-94167bc0",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-94167bc0",
+      "metadata": "{\"email\":\"user1775455561535@test.local\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:06:01.853Z"
+    },
+    {
+      "id": "audit-10923a3f",
+      "actorUserId": "user-c77b801e",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-c77b801e",
+      "metadata": "{\"email\":\"new1775455612729@test.local\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:06:52.753Z"
+    },
+    {
+      "id": "audit-2023csb1091",
+      "actorUserId": "user-2023csb1091",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1091",
+      "metadata": "{\"email\":\"2023csb1091@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1092",
+      "actorUserId": "user-2023csb1092",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1092",
+      "metadata": "{\"email\":\"2023csb1092@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1093",
+      "actorUserId": "user-2023csb1093",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1093",
+      "metadata": "{\"email\":\"2023csb1093@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1094",
+      "actorUserId": "user-2023csb1094",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1094",
+      "metadata": "{\"email\":\"2023csb1094@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1095",
+      "actorUserId": "user-2023csb1095",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1095",
+      "metadata": "{\"email\":\"2023csb1095@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1096",
+      "actorUserId": "user-2023csb1096",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1096",
+      "metadata": "{\"email\":\"2023csb1096@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1097",
+      "actorUserId": "user-2023csb1097",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1097",
+      "metadata": "{\"email\":\"2023csb1097@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1098",
+      "actorUserId": "user-2023csb1098",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1098",
+      "metadata": "{\"email\":\"2023csb1098@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1099",
+      "actorUserId": "user-2023csb1099",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1099",
+      "metadata": "{\"email\":\"2023csb1099@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1100",
+      "actorUserId": "user-2023csb1100",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1100",
+      "metadata": "{\"email\":\"2023csb1100@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1101",
+      "actorUserId": "user-2023csb1101",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1101",
+      "metadata": "{\"email\":\"2023csb1101@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1102",
+      "actorUserId": "user-2023csb1102",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1102",
+      "metadata": "{\"email\":\"2023csb1102@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1103",
+      "actorUserId": "user-2023csb1103",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1103",
+      "metadata": "{\"email\":\"2023csb1103@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1104",
+      "actorUserId": "user-2023csb1104",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1104",
+      "metadata": "{\"email\":\"2023csb1104@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1105",
+      "actorUserId": "user-2023csb1105",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1105",
+      "metadata": "{\"email\":\"2023csb1105@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1106",
+      "actorUserId": "user-2023csb1106",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1106",
+      "metadata": "{\"email\":\"2023csb1106@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1107",
+      "actorUserId": "user-2023csb1107",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1107",
+      "metadata": "{\"email\":\"2023csb1107@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1108",
+      "actorUserId": "user-2023csb1108",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1108",
+      "metadata": "{\"email\":\"2023csb1108@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1109",
+      "actorUserId": "user-2023csb1109",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1109",
+      "metadata": "{\"email\":\"2023csb1109@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1110",
+      "actorUserId": "user-2023csb1110",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1110",
+      "metadata": "{\"email\":\"2023csb1110@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1111",
+      "actorUserId": "user-2023csb1111",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1111",
+      "metadata": "{\"email\":\"2023csb1111@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1112",
+      "actorUserId": "user-2023csb1112",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1112",
+      "metadata": "{\"email\":\"2023csb1112@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1113",
+      "actorUserId": "user-2023csb1113",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1113",
+      "metadata": "{\"email\":\"2023csb1113@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1114",
+      "actorUserId": "user-2023csb1114",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1114",
+      "metadata": "{\"email\":\"2023csb1114@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1115",
+      "actorUserId": "user-2023csb1115",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1115",
+      "metadata": "{\"email\":\"2023csb1115@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1116",
+      "actorUserId": "user-2023csb1116",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1116",
+      "metadata": "{\"email\":\"2023csb1116@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1117",
+      "actorUserId": "user-2023csb1117",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1117",
+      "metadata": "{\"email\":\"2023csb1117@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1118",
+      "actorUserId": "user-2023csb1118",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1118",
+      "metadata": "{\"email\":\"2023csb1118@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1119",
+      "actorUserId": "user-2023csb1119",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1119",
+      "metadata": "{\"email\":\"2023csb1119@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1120",
+      "actorUserId": "user-2023csb1120",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1120",
+      "metadata": "{\"email\":\"2023csb1120@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1121",
+      "actorUserId": "user-2023csb1121",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1121",
+      "metadata": "{\"email\":\"2023csb1121@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1122",
+      "actorUserId": "user-2023csb1122",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1122",
+      "metadata": "{\"email\":\"2023csb1122@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1123",
+      "actorUserId": "user-2023csb1123",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1123",
+      "metadata": "{\"email\":\"2023csb1123@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1124",
+      "actorUserId": "user-2023csb1124",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1124",
+      "metadata": "{\"email\":\"2023csb1124@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1125",
+      "actorUserId": "user-2023csb1125",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1125",
+      "metadata": "{\"email\":\"2023csb1125@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1126",
+      "actorUserId": "user-2023csb1126",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1126",
+      "metadata": "{\"email\":\"2023csb1126@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1127",
+      "actorUserId": "user-2023csb1127",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1127",
+      "metadata": "{\"email\":\"2023csb1127@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1128",
+      "actorUserId": "user-2023csb1128",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1128",
+      "metadata": "{\"email\":\"2023csb1128@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1129",
+      "actorUserId": "user-2023csb1129",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1129",
+      "metadata": "{\"email\":\"2023csb1129@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1130",
+      "actorUserId": "user-2023csb1130",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1130",
+      "metadata": "{\"email\":\"2023csb1130@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1131",
+      "actorUserId": "user-2023csb1131",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1131",
+      "metadata": "{\"email\":\"2023csb1131@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1132",
+      "actorUserId": "user-2023csb1132",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1132",
+      "metadata": "{\"email\":\"2023csb1132@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1133",
+      "actorUserId": "user-2023csb1133",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1133",
+      "metadata": "{\"email\":\"2023csb1133@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1134",
+      "actorUserId": "user-2023csb1134",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1134",
+      "metadata": "{\"email\":\"2023csb1134@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1135",
+      "actorUserId": "user-2023csb1135",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1135",
+      "metadata": "{\"email\":\"2023csb1135@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1136",
+      "actorUserId": "user-2023csb1136",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1136",
+      "metadata": "{\"email\":\"2023csb1136@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1137",
+      "actorUserId": "user-2023csb1137",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1137",
+      "metadata": "{\"email\":\"2023csb1137@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1138",
+      "actorUserId": "user-2023csb1138",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1138",
+      "metadata": "{\"email\":\"2023csb1138@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1139",
+      "actorUserId": "user-2023csb1139",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1139",
+      "metadata": "{\"email\":\"2023csb1139@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1140",
+      "actorUserId": "user-2023csb1140",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1140",
+      "metadata": "{\"email\":\"2023csb1140@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1141",
+      "actorUserId": "user-2023csb1141",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1141",
+      "metadata": "{\"email\":\"2023csb1141@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1142",
+      "actorUserId": "user-2023csb1142",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1142",
+      "metadata": "{\"email\":\"2023csb1142@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1143",
+      "actorUserId": "user-2023csb1143",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1143",
+      "metadata": "{\"email\":\"2023csb1143@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1144",
+      "actorUserId": "user-2023csb1144",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1144",
+      "metadata": "{\"email\":\"2023csb1144@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1145",
+      "actorUserId": "user-2023csb1145",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1145",
+      "metadata": "{\"email\":\"2023csb1145@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1146",
+      "actorUserId": "user-2023csb1146",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1146",
+      "metadata": "{\"email\":\"2023csb1146@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1147",
+      "actorUserId": "user-2023csb1147",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1147",
+      "metadata": "{\"email\":\"2023csb1147@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1148",
+      "actorUserId": "user-2023csb1148",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1148",
+      "metadata": "{\"email\":\"2023csb1148@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1149",
+      "actorUserId": "user-2023csb1149",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1149",
+      "metadata": "{\"email\":\"2023csb1149@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1150",
+      "actorUserId": "user-2023csb1150",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1150",
+      "metadata": "{\"email\":\"2023csb1150@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1151",
+      "actorUserId": "user-2023csb1151",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1151",
+      "metadata": "{\"email\":\"2023csb1151@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1152",
+      "actorUserId": "user-2023csb1152",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1152",
+      "metadata": "{\"email\":\"2023csb1152@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1153",
+      "actorUserId": "user-2023csb1153",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1153",
+      "metadata": "{\"email\":\"2023csb1153@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1154",
+      "actorUserId": "user-2023csb1154",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1154",
+      "metadata": "{\"email\":\"2023csb1154@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1155",
+      "actorUserId": "user-2023csb1155",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1155",
+      "metadata": "{\"email\":\"2023csb1155@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1156",
+      "actorUserId": "user-2023csb1156",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1156",
+      "metadata": "{\"email\":\"2023csb1156@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1157",
+      "actorUserId": "user-2023csb1157",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1157",
+      "metadata": "{\"email\":\"2023csb1157@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1158",
+      "actorUserId": "user-2023csb1158",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1158",
+      "metadata": "{\"email\":\"2023csb1158@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1159",
+      "actorUserId": "user-2023csb1159",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1159",
+      "metadata": "{\"email\":\"2023csb1159@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1160",
+      "actorUserId": "user-2023csb1160",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1160",
+      "metadata": "{\"email\":\"2023csb1160@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1161",
+      "actorUserId": "user-2023csb1161",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1161",
+      "metadata": "{\"email\":\"2023csb1161@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1162",
+      "actorUserId": "user-2023csb1162",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1162",
+      "metadata": "{\"email\":\"2023csb1162@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1163",
+      "actorUserId": "user-2023csb1163",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1163",
+      "metadata": "{\"email\":\"2023csb1163@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1164",
+      "actorUserId": "user-2023csb1164",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1164",
+      "metadata": "{\"email\":\"2023csb1164@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1165",
+      "actorUserId": "user-2023csb1165",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1165",
+      "metadata": "{\"email\":\"2023csb1165@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1166",
+      "actorUserId": "user-2023csb1166",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1166",
+      "metadata": "{\"email\":\"2023csb1166@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1167",
+      "actorUserId": "user-2023csb1167",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1167",
+      "metadata": "{\"email\":\"2023csb1167@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1168",
+      "actorUserId": "user-2023csb1168",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1168",
+      "metadata": "{\"email\":\"2023csb1168@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1169",
+      "actorUserId": "user-2023csb1169",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1169",
+      "metadata": "{\"email\":\"2023csb1169@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1170",
+      "actorUserId": "user-2023csb1170",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1170",
+      "metadata": "{\"email\":\"2023csb1170@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1171",
+      "actorUserId": "user-2023csb1171",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1171",
+      "metadata": "{\"email\":\"2023csb1171@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1172",
+      "actorUserId": "user-2023csb1172",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1172",
+      "metadata": "{\"email\":\"2023csb1172@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1173",
+      "actorUserId": "user-2023csb1173",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1173",
+      "metadata": "{\"email\":\"2023csb1173@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-2023csb1174",
+      "actorUserId": "user-2023csb1174",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-2023csb1174",
+      "metadata": "{\"email\":\"2023csb1174@iitrpr.ac.in\",\"role\":\"STUDENT\"}",
+      "createdAt": "2026-04-06T06:09:09.392Z"
+    },
+    {
+      "id": "audit-90042225",
+      "actorUserId": "user-2023csb1143",
+      "action": "event_registration_created",
+      "targetType": "Registration",
+      "targetId": "evt-001",
+      "metadata": "{\"eventId\":\"evt-001\",\"email\":\"2023csb1143@iitrpr.ac.in\"}",
+      "createdAt": "2026-04-06T06:11:26.184Z"
+    },
+    {
+      "id": "audit-user-organizer1",
+      "actorUserId": "user-organizer1",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-organizer1",
+      "metadata": "{\"email\":\"organizer1@iitrpr.ac.in\",\"role\":\"ORGANIZER\"}",
+      "createdAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "audit-user-organizer2",
+      "actorUserId": "user-organizer2",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-organizer2",
+      "metadata": "{\"email\":\"organizer2@iitrpr.ac.in\",\"role\":\"ORGANIZER\"}",
+      "createdAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "audit-user-admin",
+      "actorUserId": "user-admin",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-admin",
+      "metadata": "{\"email\":\"admin@iitrpr.ac.in\",\"role\":\"ADMIN\"}",
+      "createdAt": "2026-04-06T06:42:01.964Z"
+    },
+    {
+      "id": "audit-25525fd4",
+      "actorUserId": "user-5153abaa",
+      "action": "event_registration_created",
+      "targetType": "Registration",
+      "targetId": "evt-002",
+      "metadata": "{\"eventId\":\"evt-002\",\"email\":\"2023csb1143@iitrpr\"}",
+      "createdAt": "2026-04-06T06:54:38.503Z"
+    },
+    {
+      "id": "audit-f4df3152",
+      "actorUserId": "user-27c7c460",
+      "action": "user_created",
+      "targetType": "User",
+      "targetId": "user-27c7c460",
+      "metadata": "{\"email\":\"organiser11@iitrpr.ac.in\",\"role\":\"ORGANIZER\"}",
+      "createdAt": "2026-04-13T00:47:29.008Z"
+    }
+  ]
+}
